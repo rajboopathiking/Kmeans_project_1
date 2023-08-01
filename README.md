@@ -13,5 +13,6 @@ using matplotlib and seaborn
    distribution
    etc....
 # ML model(Mechine Learning)
-
+# KMeans
+   [KMeans](Project2_Dataset.ipynb)
 # Report
